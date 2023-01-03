@@ -2,6 +2,8 @@ import React from 'react';
 import CardItem from './CardItem';
 import './Cards.css';
 
+
+
 function Cards() {
     return (
         <div className='cards'>
@@ -22,6 +24,26 @@ function Cards() {
 
 
                     </ul>
+                    <ul className='cards__items'>
+                        <CardItem
+                            src="images/img01.jpg"
+                            text="Explore the waterfall in the amazon"
+                            label="Adventure"
+                            path="/services" />
+                        <CardItem
+                            src="images/img01.jpg"
+                            text="Explore the waterfall in the amazon"
+                            label="Adventure"
+                            path="/services" />
+                        <CardItem
+                            src="images/img01.jpg"
+                            text="Explore the waterfall in the amazon"
+                            label="Adventure"
+                            path="/services" />
+
+
+                    </ul>
+                    
                 </div>
             </div>
         </div>
