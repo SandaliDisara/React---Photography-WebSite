@@ -17,10 +17,10 @@ function About() {
                         <h3>Software Engineering Student</h3>
                     </div>
                     <ul className='icons'>
-                        <li><i className='fab fa facebook-f'></i></li>
-                        <li><i className='fab fa instagram'></i></li>
-                        <li><i className="fa-brands fa-github"></i></li>
-                        <li><i className="fa-brands fa-youtube"></i></li>
+                        <li><i className='fas fa-play-circle' /></li>
+                        <li><i className='far fa-instagram' /></li>
+                        <li><i className='fa-brands fa-instagram' /></li>
+                        <li><i className='far fa-play-circle' /></li>
                     </ul>
                 </div>
             </div>
