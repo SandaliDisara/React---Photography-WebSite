@@ -32,7 +32,7 @@ function About() {
                     <button type='button' className='btn btn-grey'>Projects</button>
                 </div>
                 <div className='about-para'>
-                    <p>fvdfvdfvgdfvfdbdvg</p>
+                    <p>I am a Software Engineering Student currently doing my studies </p>
                     <p>vfdgfdhgfnhfnhnhfnhgcng</p>
                 </div>
             </div>

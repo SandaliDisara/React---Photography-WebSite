@@ -7,19 +7,19 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Check out these pictures</h1>
+            <h1>Check the latest Vlogs</h1>
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <CardItem
-                            src="images/img01.jpg"
-                            text="Explore the waterfall in the amazon"
-                            label="Adventure"
+                            src="images/Weerawila.PNG"
+                            text="Weerawila, Sri Lanka"
+                            label="Youtube"
                             path="/services" />
                         <CardItem
-                            src="images/img01.jpg"
-                            text="Explore the waterfall in the amazon"
-                            label="Adventure"
+                            src="images/yala.jpg"
+                            text="Yala, Sri Lanka"
+                            label="Youtube"
                             path="/services" />
 
 

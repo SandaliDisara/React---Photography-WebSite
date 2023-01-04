@@ -70,7 +70,9 @@ function Navbar() {
               </Link>
             </li>
           </ul>
+          
           {button && <Button buttonStyle='btn--outline'>YouTube</Button>}
+          
         </div>
       </nav>
     </>
