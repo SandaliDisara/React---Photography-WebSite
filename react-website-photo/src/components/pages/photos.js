@@ -1,6 +1,25 @@
-import React from "react";
+import React from 'react'
 import '../../App.css';
+import './Photos.css';
 
-export default function Photos() {
-    return <h1 className='photos'>PHOTOS</h1>;
+function Photos() {
+    return (
+        <section>
+            <div class="container">
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+                <img src="images/img01.jpg" />
+            </div>
+
+        </section>
+    )
 }
+
+export default Photos;
