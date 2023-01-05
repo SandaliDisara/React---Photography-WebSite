@@ -26,17 +26,17 @@ function Cards() {
                     </ul>
                     <ul className='cards__items'>
                         <CardItem
-                            src="images/img01.jpg"
-                            text="Explore the waterfall in the amazon"
-                            label="Adventure"
+                            src="images/rathnapura.PNG"
+                            text="Rathnapura, Sri Lanka"
+                            label="Youtube"
                             path="/services" />
                         <CardItem
-                            src="images/img01.jpg"
-                            text="Explore the waterfall in the amazon"
-                            label="Adventure"
+                            src="images/kilinochchi.PNG"
+                            text="Kilinochchi, Sri Lanka"
+                            label="Youtube"
                             path="/services" />
                         <CardItem
-                            src="images/img01.jpg"
+                            src="images/south.PNG"
                             text="Explore the waterfall in the amazon"
                             label="Adventure"
                             path="/services" />

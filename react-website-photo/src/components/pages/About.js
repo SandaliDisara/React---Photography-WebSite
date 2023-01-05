@@ -17,10 +17,11 @@ function About() {
                         <h3>Software Engineering Student</h3>
                     </div>
                     <ul className='icons'>
-                        <li><i className='fas fa-play-circle' /></li>
-                        <li><i className='far fa-instagram' /></li>
                         <li><i className='fa-brands fa-instagram' /></li>
-                        <li><i className='far fa-play-circle' /></li>
+                        <li><i class="fa-brands fa-linkedin"/></li>
+                        <li><i class="fa-brands fa-github"/></li>
+                        <li><i class="fa-brands fa-youtube"/></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -32,8 +33,10 @@ function About() {
                     <button type='button' className='btn btn-grey'>Projects</button>
                 </div>
                 <div className='about-para'>
-                    <p>I am a Software Engineering Student currently doing my studies </p>
-                    <p>vfdgfdhgfnhfnhnhfnhgcng</p>
+                    <p>I am a 3rd year Software Engineering Student currently doing my studies at SLIIT.</p>
+                    <p>Photography and videography has always been my hobby since a very younge age.
+                        <br/>Feel free to go through my image gallery and the video compilations on my<br/> Youtube channel.
+                    </p>
                 </div>
             </div>
         </div>
