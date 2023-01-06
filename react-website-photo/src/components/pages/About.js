@@ -17,10 +17,10 @@ function About() {
                         <h3>Software Engineering Student</h3>
                     </div>
                     <ul className='icons'>
-                        <li><i className='fa-brands fa-instagram' /></li>
-                        <li><i class="fa-brands fa-linkedin"/></li>
-                        <li><i class="fa-brands fa-github"/></li>
-                        <li><i class="fa-brands fa-youtube"/></li>
+                        <li><a href="https://www.instagram.com/sandali_disara/" target="_blank"><i className='fa-brands fa-instagram' /></a></li>
+                        <li><a href="https://www.linkedin.com/in/sandali-dissanayake-61b602203/" target="_blank"><i class="fa-brands fa-linkedin"/></a></li>
+                        <li><a href="https://github.com/SandaliDisara" target="_blank"><i class="fa-brands fa-github"/></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC4ckfsmDTSWaeEoK_NuV2rA" target="_blank"><i class="fa-brands fa-youtube"/></a></li>
                         
                     </ul>
                 </div>

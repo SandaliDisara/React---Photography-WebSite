@@ -20,14 +20,15 @@ function HeroSection() {
 
                 </Button>
                 </Link>
-                <Link to="/vlogs">
+                <a href="https://youtube.com/playlist?list=PLkCIhGtlzgLEISk13z_uAs3pXMykCH7RY" target="_blank">
                 <Button className='btns'
                     buttonStyle='btn--primary'
                     buttonSize='btn--large'>
                     WATCH VLOGS <i className='far fa-play-circle' />
 
                 </Button>
-                </Link>
+                </a>
+                
             </div>
 
         </div>

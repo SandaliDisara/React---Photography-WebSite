@@ -51,15 +51,7 @@ function Navbar() {
                 Photography
               </Link>
             </li>
-            <li className='nav-item'>
-              <Link
-                to='/vlogs'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Vlogs
-              </Link>
-            </li>
+            
             <li className='nav-item'>
               <Link to='/about' className='nav-links' onClick={closeMobileMenu}>
                 About Me
@@ -76,8 +68,10 @@ function Navbar() {
               </Link>
             </li>
           </ul>
+          <a href="https://www.youtube.com/@SandaliDisara/videos" target="_blank">
 
-          {button && <Button buttonStyle='btn--outline'>YouTube</Button>}
+            {button && <Button buttonStyle='btn--outline'>YouTube</Button>}
+          </a>
 
         </div>
       </nav>
